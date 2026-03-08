@@ -1,0 +1,18 @@
+title: KH1 GeoGuesser
+originalAuthor: Gicu
+description: Mods for KH1 GeoGuesser.  Companion to the "finder" script you can get on https://www.kh1fmrando.com/geo_guesser.html
+dependencies:
+- name: gaithern/kh1-lua-library
+assets:
+- name: scripts/1fmGeoGuesserShow.lua
+  method: copy
+  source:
+  - name: scripts/1fmGeoGuesserShow.lua
+- name: scripts/PlaySound.dll
+  method: copy
+  source:
+  - name: scripts/PlaySound.dll
+- name: sounds/item_reward.wav
+  method: copy
+  source:
+  - name: sounds/item_reward.wav
