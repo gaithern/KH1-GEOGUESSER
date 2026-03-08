@@ -12,7 +12,3 @@ assets:
   method: copy
   source:
   - name: scripts/io_packages/PlaySound.dll
-- name: sounds/item_reward.wav
-  method: copy
-  source:
-  - name: sounds/item_reward.wav
