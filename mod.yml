@@ -8,10 +8,10 @@ assets:
   method: copy
   source:
   - name: scripts/1fmGeoGuesserShow.lua
-- name: scripts/PlaySound.dll
+- name: scripts/io_packages/PlaySound.dll
   method: copy
   source:
-  - name: scripts/PlaySound.dll
+  - name: scripts/io_packages/PlaySound.dll
 - name: sounds/item_reward.wav
   method: copy
   source:
