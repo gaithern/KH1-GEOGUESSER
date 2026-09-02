@@ -8,7 +8,3 @@ assets:
   method: copy
   source:
   - name: scripts/1fmGeoGuesserShow.lua
-- name: scripts/io_packages/PlaySound.dll
-  method: copy
-  source:
-  - name: scripts/io_packages/PlaySound.dll
